@@ -1,1 +1,3 @@
-# abdulsmapara15.github.io
+### Abdul Sattar Mapara - Portfolio website
+
+Website is hosted at: abdulsmapara.github.io
